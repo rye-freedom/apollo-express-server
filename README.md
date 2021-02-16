@@ -1,4 +1,4 @@
-## SpaceX Coding Assignment By Ryan Howell
+## SpaceX Coding Assignment By Ryan H
 For this assessment I tried to stay within the time limit bounds, but I did use a little more time than what was suggested. This was mostly for the initial learning aspect of it as I haven't directly worked with GraphQL/Apollo before. I ended up spending some additional time reading the docs and various other resources (very cool framework). I also spent a few extra minutes writing this summary. Either way, this was a fun assignment and I appreciate the opportunity to learn something new and add a new tool to the toolbox. 
 
 ### Additional Notes 
